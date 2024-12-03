@@ -1,0 +1,18 @@
+Angular Modules :-
+
+a group of related components are called a Modules
+ng g m module_name
+creating non standalone components:
+   ng g c component_name --standalone false
+   
+
+
+   => Angular Pipes :-
+   ---------------------------
+
+   - Angular pipes are special functions that can be transform/convert data at view side 
+
+   2 types:-
+   Built-in -pipes :- uppercase,lowercase,currency,date.json etc...
+   custom Pipes :- 
+   
